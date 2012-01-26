@@ -25,6 +25,8 @@ public class BluetoothCommandService {
     
     // Member fields
     private final BluetoothAdapter mAdapter;
+    
+    
     private final Handler mHandler;
     private ConnectThread mConnectThread;
     private ConnectedThread mConnectedThread;
