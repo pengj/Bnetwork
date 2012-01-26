@@ -1,4 +1,4 @@
-package co.uk.orange.apps.remotebluetooth;
+package tk.mpax.apps.remotebluetooth;
 
 public class RemoteBluetoothServer{
 

@@ -1,4 +1,4 @@
-package co.uk.orange.apps.remotebluetooth;
+package tk.mpax.apps.remotebluetooth;
 
 import javax.bluetooth.DiscoveryAgent;
 import javax.bluetooth.LocalDevice;

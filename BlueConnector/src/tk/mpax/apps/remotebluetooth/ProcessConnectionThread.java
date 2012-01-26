@@ -1,4 +1,4 @@
-package co.uk.orange.apps.remotebluetooth;
+package tk.mpax.apps.remotebluetooth;
 import java.awt.Robot;
 import java.awt.event.KeyEvent;
 import java.io.InputStream;
